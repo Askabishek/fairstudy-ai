@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+chromadb
+langchain
+langchain-groq
+langchain-community
+langchain-core 
+pgvector
+psycopg2-binary
+pydantic
+groq-whisper
+gTTS
+pypdf
+langdetect
+sentence-transformers
